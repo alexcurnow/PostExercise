@@ -1,0 +1,12 @@
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\bin\Debug\netcoreapp3.1\post.exe
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\bin\Debug\netcoreapp3.1\post.deps.json
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\bin\Debug\netcoreapp3.1\post.runtimeconfig.json
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\bin\Debug\netcoreapp3.1\post.runtimeconfig.dev.json
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\bin\Debug\netcoreapp3.1\post.dll
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\bin\Debug\netcoreapp3.1\post.pdb
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\obj\Debug\netcoreapp3.1\post.AssemblyInfoInputs.cache
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\obj\Debug\netcoreapp3.1\post.AssemblyInfo.cs
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\obj\Debug\netcoreapp3.1\post.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\obj\Debug\netcoreapp3.1\post.dll
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\obj\Debug\netcoreapp3.1\post.pdb
+C:\Users\Alexander Curnow\workspace\csharp\exercises\post\post\obj\Debug\netcoreapp3.1\post.genruntimeconfig.cache
